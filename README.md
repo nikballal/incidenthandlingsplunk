@@ -1,2 +1,2 @@
-# incidenthandlingsplunk
-Incident handling with Splunk
+# Incident Handling with Splunk
+
